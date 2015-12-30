@@ -1,0 +1,14 @@
+#
+Gender:Female;man;woman;
+Name:Dress;
+Size:S;XL;
+Color:Sliver;
+NumberOfFigures:2;
+##
+#
+Gender:Female;
+Name:LaceTop;
+Size:M;S;
+Color:Beige;DarkBrown;
+NumberOfFigures:1;
+##
